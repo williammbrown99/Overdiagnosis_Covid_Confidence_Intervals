@@ -25,8 +25,6 @@ This script performs the primary size-specific overdiagnosis estimation using SE
 
         Lead Time (LT): Tests extended lead times (2, 4, and 7 years).
 
-        Note: Uses a hybrid constraint where avoidance is ignored for 4-4.9cm tumors, and both avoidance/lead time are fixed for 5+cm tumors.
-
     Bootstrapping: Generates 95% Confidence Intervals (CIs) using 10,000 resampled iterations of baseline (2016–2019) and rebound (2021–2022) years.
 
 B. Overdiagnosis_Covid_Caswell.py (Validation Analysis)
